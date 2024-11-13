@@ -1,20 +1,17 @@
 name: workshop-pysal
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python ==3.10
+  - python ==3.12
   - mamba
   - bokeh
   - pip
   - geopandas
-  - descartes
   - folium
   - ipywidgets
   - jupyterlab
   - geodatasets
   - pysal
-  - nbconvert
   - networkx
   - scikit-learn
   - seaborn
