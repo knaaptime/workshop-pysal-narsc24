@@ -1,4 +1,4 @@
-name: workshop-pysal
+name: workshop-pysal-narsc24
 channels:
   - conda-forge
 dependencies:
@@ -10,12 +10,12 @@ dependencies:
   - folium
   - ipywidgets
   - jupyterlab
-  - geodatasets
   - pysal
   - networkx
   - scikit-learn
   - seaborn
   - statsmodels
+  - geodatasets
   - hvplot
   - holoviews
   - geoviews
