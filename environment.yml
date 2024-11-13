@@ -1,19 +1,15 @@
 name: workshop-pysal-narsc24
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - python ==3.12
-  - mamba
   - bokeh
   - pip
   - geopandas
-  - descartes
   - folium
   - ipywidgets
   - jupyterlab
   - pysal
-  - nbconvert
   - networkx
   - scikit-learn
   - seaborn
